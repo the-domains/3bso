@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-05-01T16:30:26.489Z'
+dateModified: '2016-05-01T16:31:36.336Z'
+datePublished: '2016-05-01T16:31:45.204Z'
 title: 'Soggy Rusty '
 hasPage: false
 inFeed: true
@@ -7,7 +8,6 @@ inNav: false
 description: ''
 author: []
 starred: false
-datePublished: '2016-05-01T16:30:36.251Z'
 sourcePath: _posts/2016-05-01-soggy-rusty.md
 published: true
 _context: 'http://schema.org'
