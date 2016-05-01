@@ -2,14 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-01T16:40:52.158Z'
-dateModified: '2016-05-01T16:40:24.761Z'
-title: 'Soggy Rusty '
-author: []
+description: 'Rusty after a shower & shampoo'
+datePublished: '2016-05-01T16:53:38.331Z'
+dateModified: '2016-05-01T16:42:01.159Z'
+title: 'Soggy Dog!'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-01-soggy-rusty.md
 published: true
 authors: []
@@ -23,4 +25,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f352d4-1ed1-44fb-bb88-de780b2f466b.jpg)
+![Rusty after a shower & shampoo](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f352d4-1ed1-44fb-bb88-de780b2f466b.jpg)
