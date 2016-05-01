@@ -1,17 +1,28 @@
 ---
-dateModified: '2016-05-01T16:11:09.743Z'
-title: "Mayday Bank Holiday '16 "
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
-description: ''
-author: []
-starred: false
-datePublished: '2016-05-01T16:11:29.568Z'
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: 'Ve & Ollie working hard in the garden'
+datePublished: '2016-05-01T16:20:21.529Z'
+dateModified: '2016-05-01T16:20:10.768Z'
+title: "Mayday Bank Holiday '16 "
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-01-mayday-bank-holiday-16.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ddda224-3210-45ec-af1d-c9226283b85b.jpg)
+![Ve & Ollie working hard in the garden](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ddda224-3210-45ec-af1d-c9226283b85b.jpg)
