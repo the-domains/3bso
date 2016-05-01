@@ -1,15 +1,24 @@
 ---
-dateModified: '2016-05-01T16:35:46.000Z'
-datePublished: '2016-05-01T16:35:55.164Z'
-title: 'Soggy Rusty '
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: ''
+datePublished: '2016-05-01T16:40:52.158Z'
+dateModified: '2016-05-01T16:40:24.761Z'
+title: 'Soggy Rusty '
 author: []
-starred: false
 sourcePath: _posts/2016-05-01-soggy-rusty.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
