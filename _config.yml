@@ -1,7 +1,7 @@
 name: 3 Barnes Street Oast
 favicon: null
-layout_spectrum: 0.40013
-typography_spectrum: 0.35072
+layout_spectrum: 0.6904653066303581
+typography_spectrum: 0.47170805442146957
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d3eeff'
-    - '#0e0e0e'
-    - '#c1ad92'
-    - '#5f6d30'
-    - '#d8871e'
-  brandStrength: 0.3125
-  lightness: 0.625
-  saturation: 0.75
-  rhythmicContrast: 0.25
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.4727458057459444
+  lightness: 0.45454513537697494
+  saturation: 0.5595859824679792
+  rhythmicContrast: 0.45289984019473195
 purpose: []
